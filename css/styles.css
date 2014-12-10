@@ -1,0 +1,41 @@
+/* Your Website Styles */
+body{
+	background: black;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+h1{
+	width: 100%;
+	padding-left: 15px;
+	padding-top: 50px;
+
+}
+h3 {
+	padding-left: 15px;
+}
+p {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+a {
+	color: white;
+	text-decoration: none;
+	padding-left: 15px;
+}
+a:hover{
+	color: red;
+}
+img {
+	height: 300px;
+	width: 300px;
+	padding-left: 30px;
+}
+.links nav {
+	background: rgba(255,0,0,.45);
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+.links li {
+	display: inline;
+}
